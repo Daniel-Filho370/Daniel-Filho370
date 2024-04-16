@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, meu nome é Daniel e sou estudante de ADS e futuro Dev ;D
+Olá, meu nome é Daniel recém formado em ADS e em busca de um experiência profissional na área.
 
 ## Habilidades
 
