@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, meu nome é Daniel recém formado em ADS e em busca de um experiência profissional na área.
+Olá, meu nome é Daniel recém formado em ADS e em busca de uma experiência profissional na área.
 
 ## Habilidades
 
